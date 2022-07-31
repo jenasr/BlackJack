@@ -121,7 +121,7 @@ def display_rules():
         RULES,
     )
     printt("I am required to hit until I have a hand value >=17", RULES)
-    printt("If I go over over 21 then I bust", RULES)
+    printt("If I go over 21 then I bust", RULES)
     printt("In other words, try to get as close to 21 as possible", RULES)
     printt("But if you are worried about busting, try to beat me", RULES)
     printt("At the end of all players' turns, payout will begin", RULES)
