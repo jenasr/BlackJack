@@ -4,6 +4,6 @@
    * Applied Object Oriented programming
    * Saves player banks with pickle files
 2. To run:
-   * Clone the repository: git clone 
-    * Give execute permission for blackjack.py: chmod u+x blackjack.py
-    * Execute: ./blackjack.py
+   * Clone the repository: git clone https://github.com/jenasr/BlackJack.git
+   * Give execute permission for blackjack.py: chmod u+x blackjack.py
+   * Execute: ./blackjack.py
